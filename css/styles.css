@@ -8,6 +8,7 @@ font-weight: 800;
 line-height: 21px; /* 116.667% */
 letter-spacing: 0.54px;
 text-transform: uppercase;
+text-decoration: none;
 }
 a[href="WEBSTUDIO"] {
 width: 71px;
