@@ -61,7 +61,6 @@ text-transform: uppercase;
 }
 .main-page {
 width: 1440px;
-height: 600px;
 flex-shrink: 0;
 background: var(--NAVY-BLUE, #2E2F42);
 }
@@ -259,7 +258,6 @@ text-transform: uppercase;
     }
     footer {
         width: 1440px;
-        height: 312px;
         flex-shrink: 0;
         background: var(--NAVY-BLUE, #2E2F42);
     }
