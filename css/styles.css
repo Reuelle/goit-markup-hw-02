@@ -20,7 +20,7 @@ line-height: 21px; /* 116.667% */
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
-a[title="connect"]{
+.main .connect{
     color: var(--NAVY-BLUE, #2E2F42);
     /* Body Medium */
     font-family: Roboto;
@@ -30,12 +30,15 @@ a[title="connect"]{
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
 }
+.contact .connect:hover,.contact .connect:focus {
+    color: red;
+}
 .main ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-a[title="connect-1"]{
+.contact-info .connect-1{
     color: var(--SLATE, #434455);
     /* Body */
     font-family: Roboto;
