@@ -31,7 +31,7 @@ text-transform: uppercase;
     letter-spacing: 0.32px;
 }
 .contact .connect:hover,.contact .connect:focus {
-    color: red;
+    color: darkblue;
 }
 .main ul {
     list-style-type: none;
